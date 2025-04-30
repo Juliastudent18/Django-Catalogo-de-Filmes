@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color:aliceblue;
+}
+
+img {
+    width: 30px;
+}
+
+.lista-filmes {
+    display: flex;
+}
+
+.filme {
+    border:1px solid #fff;
+    text-align: center;
+    margin: 5px 5px;
+}
