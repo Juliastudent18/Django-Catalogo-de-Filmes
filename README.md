@@ -33,6 +33,7 @@ Como Executar o Projeto Localmente
 
 '''bash
 git clone https://github.com/Juliastudent18/Django-Catalogo-de-Filmes.git
+
 cd Django-Catalogo-de-Filmes
 
 2. Crie e ative o ambiente virtual
